@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\GestionFilm-Mahmoud.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\Controls\EcranAjoutPersonne.g.cs
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\Controls\EcranAjoutFilm.g.cs
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\Controls\EcranPrincipalFilm.g.cs
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\admin\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

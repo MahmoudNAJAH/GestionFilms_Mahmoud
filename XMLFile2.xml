@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<films>
+	<film genre="bibliographie" auteur="Luc Besson" annee="1984" titre="Le Grand Bleu"/>
+	<film genre="science fiction" auteur="Peter Jackson" annee="2010" titre="King Kong"/>
+</films>
+
+

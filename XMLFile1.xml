@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<personnes>
+	<personne prenom="Luc" nom="Besson" age="52"/>
+	<personne prenom="Peter" nom="Jackson" age="48"/>
+</personnes>
